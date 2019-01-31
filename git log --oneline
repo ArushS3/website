@@ -1,0 +1,37 @@
+* [33m1413e7a[m[33m ([m[1;36mHEAD -> [m[1;32mdevelop[m[33m)[m updated again
+*   [33m91ad22a[m[33m ([m[1;33mtag: unstable[m[33m, [m[1;31morigin/develop[m[33m, [m[1;31morigin/HEAD[m[33m)[m resolving conflicts
+[32m|[m[33m\[m  
+[32m|[m * [33m36f9c45[m another update
+* [33m|[m [33m5827eea[m updated on local and remote
+[33m|[m[33m/[m  
+* [33m7999e43[m[33m ([m[1;33mtag: stable[m[33m, [m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m updating index.html before rebase
+* [33m2609770[m deleted from readme file
+*   [33m95c999b[m tweaks
+[34m|[m[35m\[m  
+[34m|[m * [33md880ead[m update the readme.md file
+* [35m|[m [33m496f166[m more tweaks updated
+[35m|[m[35m/[m  
+*   [33me1f437e[m Merge branch 'remove-lipsum'
+[36m|[m[1;31m\[m  
+[36m|[m * [33m8c1f123[m removing lipsm file
+* [1;31m|[m   [33m8689884[m Merge pull request #2 from ArushS3/example
+[1;31m|[m[1;33m\[m [1;31m\[m  
+[1;31m|[m [1;33m|[m[1;31m/[m  
+[1;31m|[m[1;31m/[m[1;33m|[m   
+[1;31m|[m * [33m043a26e[m updating readme in example
+[1;31m|[m[1;31m/[m  
+* [33m0465c35[m delete demo
+* [33me4f198f[m markup
+* [33m7ee1957[m created new file
+*   [33md0e2b25[m[33m ([m[1;33mtag: v0.3-beta[m[33m)[m Merge pull request #1 from ArushS3/lipsum-forum
+[1;34m|[m[1;35m\[m  
+[1;34m|[m * [33m6851fec[m created lipsum file
+[1;34m|[m[1;34m/[m  
+* [33m85f0755[m updated my website to personal
+*   [33mc6f0cb5[m Merge branch 'master' of github.com:ArushS3/my-wwebsite
+[1;36m|[m[31m\[m  
+[1;36m|[m * [33m727a078[m adding title mw website
+* [31m|[m [33m3bc230e[m add
+[31m|[m[31m/[m  
+* [33m243402b[m adding initializr files
+* [33m0e78072[m Initial commit
