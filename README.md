@@ -1,6 +1,7 @@
 # my-wwebsite
 <<<<<<< HEAD
 more tweaks updated
+# more updates
 =======
 this is something good
 just a readme file purpose
